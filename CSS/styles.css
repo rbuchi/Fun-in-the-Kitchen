@@ -1,0 +1,51 @@
+/*******FUN IN THE KITCHEN*****/
+/*********TAG SELECTIONS*******/
+body {
+  background-color: #d2c6b2;
+}
+
+h1 {
+  background-color: #eae7d9;
+  border-radius: 60%;
+  color: #442727;
+  text-align: center;
+}
+
+h2 {
+  background-color: #eae7d9;
+  border-radius: 60%;
+  color: #937d14;
+  text-align: center;
+}
+
+h3 {
+  background-color: #eae7d9;
+  border-radius: 60%;
+  color: #9c5518;
+  text-align: center;
+  text
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 5px;
+  width: 5%
+}
+
+li {
+  color: #937d14;
+  font-style: normal;
+  font-size: 24px;
+  text-align: justify;
+}
+
+p {
+  color: #937d14;
+  font-style: normal;
+  font-size: 24px;
+  text-align: justify;
+}
+
+/*********CLASSS SELECTIONS*****/
